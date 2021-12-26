@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/vertil/3d-test/src/glad/glad.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+../glad/glad.h
+/home/vertil/3d-test/src/glad/glad.h
+
+/home/vertil/3d-test/src/glad/glad.h
+KHR/khrplatform.h
+-
+

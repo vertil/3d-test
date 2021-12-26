@@ -1,0 +1,1 @@
+/usr/bin/g++ -fPIC -g -shared -Wl,-soname,liblodepng.so -o liblodepng.so CMakeFiles/lodepng.dir/lodepng.cpp.o 

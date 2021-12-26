@@ -1,0 +1,5 @@
+/home/vertil/3d-test/build/CMakeFiles/rebuild_cache.dir
+/home/vertil/3d-test/build/CMakeFiles/edit_cache.dir
+/home/vertil/3d-test/build/CMakeFiles/game_heli.dir
+/home/vertil/3d-test/build/CMakeFiles/lodepng.dir
+/home/vertil/3d-test/build/CMakeFiles/glad.dir

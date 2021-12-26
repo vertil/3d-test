@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/vertil/3d-test/src/lodepng.cpp
+lodepng.h
+/home/vertil/3d-test/src/lodepng.h
+limits.h
+-
+stdio.h
+-
+stdlib.h
+-
+
+/home/vertil/3d-test/src/lodepng.h
+string.h
+-
+vector
+-
+string
+-
+lodepng.h
+/home/vertil/3d-test/src/lodepng.h
+iostream
+-
+lodepng.h
+/home/vertil/3d-test/src/lodepng.h
+
